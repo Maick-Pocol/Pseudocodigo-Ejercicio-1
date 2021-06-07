@@ -1,0 +1,11 @@
+Inicio ejercicio 1.txt
+	Definir n, A aleat
+	Escribir "ingrese un numero"
+	Leer n
+	A == n mod <- aleat (100)+ 1
+	si A mod 2=0 entonces
+		A <-- aleat +1
+		Escribir "A numero son pares"
+	SiNo
+		Escribir "A numeros son impares"
+Fin algoritmo
